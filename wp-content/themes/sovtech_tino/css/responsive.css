@@ -4757,7 +4757,7 @@
     /* reset */
     html { font-size: 11px }
     .xs-center-col { float:none; margin-left:auto; margin-right:auto; }
-    section, section.extra-big-section { padding: 50px 0; }
+    section, section.extra-big-section { padding: 75px 0; }
     section.big-section { padding:80px 0; }
     .center-col-style .custom-col { flex: 0 0 100%; max-width: 100%; margin: 8px 0; }
     .sm-last-order { order: 10; }
