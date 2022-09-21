@@ -125,7 +125,7 @@ get_header(); ?>
 
 
 <!-- start section -->
-<section>
+<section class="bg-light-gray">
     <div class="container">
         <div class="row align-items-center">
 
@@ -405,7 +405,7 @@ Contact Us<i class="feather icon-feather-arrow-right icon-very-small right-icon"
             ?>
 
 <!-- start section -->
-<section>
+<section class="bg-light-gray">
     <div class="container">
         <div class="row align-items-center">
 
