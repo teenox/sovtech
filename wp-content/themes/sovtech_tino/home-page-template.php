@@ -220,7 +220,7 @@ get_header(); ?>
             <?php 
 
             if( $grouped_images ): ?>
-                  <ul class="portfolio-classic portfolio-wrapper grid grid-loading grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large text-center">
+                  <ul class="portfolio-classic portfolio-wrapper grid grid-loading grid-5col xl-grid-5col lg-grid-4col md-grid-3col sm-grid-2col xs-grid-1col gutter-extra-large text-center">
                       <li class="grid-sizer"></li>
                     <?php foreach( $grouped_images as $image ): ?>
                         <li class="grid-item photography wow animate__fadeIn">
@@ -562,5 +562,14 @@ Contact Us<i class="feather icon-feather-arrow-right icon-very-small right-icon"
     </div>
 </section>
 <!-- end section -->
+
+
+
+
+
+
+
+
+   
 
 <?php get_footer(); ?>
